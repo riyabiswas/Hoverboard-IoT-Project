@@ -2,8 +2,7 @@
  * PWM_rtc.h
  *
  *  Created on: Nov 6, 2016
- *      Authors: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 #ifndef SRC_PWM_RTC_H_

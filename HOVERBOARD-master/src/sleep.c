@@ -2,8 +2,7 @@
  * sleep.c
  *
  *  Created on: Nov 3, 2016
- *      Authors: Praveen
- *    			Riya
+ *      Authors: Praveen, Riya
  */
 
 /**************************************************************************//**

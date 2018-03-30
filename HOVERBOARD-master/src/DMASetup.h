@@ -2,8 +2,7 @@
  * DMASetup.h
  *
  *  Created on: Nov 24, 2016
- *      Author: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 #ifndef SRC_DMASETUP_H_

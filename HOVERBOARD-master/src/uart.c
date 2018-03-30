@@ -2,8 +2,7 @@
  * uart.c
  *
  *  Created on: Nov 24, 2016
- *      Authors: Praveen
- *      		 Riya
+ *      Authors: Praveen,Riya
  */
 
 #include "uart.h"

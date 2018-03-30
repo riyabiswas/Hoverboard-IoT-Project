@@ -2,8 +2,7 @@
  * includes.h
  *
  *  Created on: Oct 28, 2016
- *      Author: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 #ifndef INCLUDES_H_

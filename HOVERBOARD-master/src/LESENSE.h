@@ -2,8 +2,7 @@
  * LESENSE.h
  *
  *  Created on: Nov 4, 2016
- *      Authors: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 #ifndef LESENSE_H_

@@ -2,8 +2,7 @@
  * CMU.c
  *
  *  Created on: Oct 28, 2016
- *      Author: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 #include "CMU.h"
 

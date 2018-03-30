@@ -2,8 +2,7 @@
  * uart.h
  *
  *  Created on: Nov 24, 2016
- *      Author: Praveen
- *      		Riya
+ *      Author: Praveen, Riya
  */
 
 #ifndef SRC_UART_H_

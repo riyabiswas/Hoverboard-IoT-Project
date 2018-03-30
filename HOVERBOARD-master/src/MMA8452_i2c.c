@@ -2,8 +2,7 @@
  * MMA8452_i2c.c
  *
  *  Created on: Oct 28, 2016
- *      Authors: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 

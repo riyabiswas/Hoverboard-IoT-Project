@@ -2,8 +2,7 @@
  * sleep.h
  *
  *  Created on: Nov 3, 2016
- *      Authors: Praveen
- *      		 Riya	
+ *      Authors: Praveen, Riya	
  */
 
 #ifndef SLEEP_H_

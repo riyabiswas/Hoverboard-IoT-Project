@@ -2,8 +2,7 @@
  * gpio_setup.c
  *
  *  Created on: Nov 1, 2016
- *      Author: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 #include "gpio_setup.h"

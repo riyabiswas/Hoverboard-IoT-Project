@@ -2,8 +2,7 @@
  * PWM_rtc.c
  *
  *  Created on: Nov 6, 2016
- *      Authors: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 #include "PWM_rtc.h"
 

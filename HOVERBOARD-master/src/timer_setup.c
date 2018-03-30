@@ -2,8 +2,7 @@
  * timer_setup.c
  *
  *  Created on: Nov 1, 2016
- *      Authors: Praveen
- *      		 Riya
+ *      Authors: Praveen, Riya
  */
 
 #include "timer_setup.h"

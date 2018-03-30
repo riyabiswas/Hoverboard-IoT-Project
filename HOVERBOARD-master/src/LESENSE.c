@@ -2,8 +2,7 @@
  * LESENSE.c
  *
  *  Created on: Nov 4, 2016
- *      Author: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 #include "LESENSE.h"

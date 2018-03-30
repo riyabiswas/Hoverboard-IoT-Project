@@ -2,8 +2,7 @@
  * gpio_setup.h
  *
  *  Created on: Nov 1, 2016
- *      Author: Praveen
- *      		Riya
+ *      Authors: Praveen, Riya
  */
 
 #ifndef GPIO_SETUP_H_

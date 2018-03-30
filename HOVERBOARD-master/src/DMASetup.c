@@ -2,8 +2,7 @@
  * DMASetup.c
  *
  *  Created on: Nov 24, 2016
- *      Author: Praveen
- *      		Riya	
+ *      Authors: Praveen, Riya	
  */
 //#include "em_dma.h"
 #include "dmactrl.c"

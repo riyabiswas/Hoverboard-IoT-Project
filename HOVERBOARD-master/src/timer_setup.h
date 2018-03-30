@@ -2,8 +2,7 @@
  * timer_setup.h
  *
  *  Created on: Nov 1, 2016
- *      Authors: Praveen
- *      		 Riya
+ *      Authors: Praveen, Riya
  */
 
 #ifndef TIMER_SETUP_H_

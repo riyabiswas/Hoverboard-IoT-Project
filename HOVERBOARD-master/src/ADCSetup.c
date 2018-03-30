@@ -2,8 +2,7 @@
  * ADCSetup.c
  *
  *  Created on: Nov 24, 2016
- *      Authors: Praveen
- *               Riya
+ *      Authors: Praveen, Riya
  */
 #include "ADCSetup.h"
 uint16_t i;
