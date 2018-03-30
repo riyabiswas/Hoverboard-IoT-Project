@@ -1,0 +1,31 @@
+ADCSetup.c- ADC conversion for the temperature sensor
+ADCSetup.h- header file for ADCSetup.c
+
+CMU.c- Clock Management Unit for the Cortex M3
+CMU.h - header file for CMU.c
+
+DMASetup.c- Direct Memory Access for the temperature sensor
+DMASetup.h - header file for DMASetup.c
+
+InitDevice.c- Device initialization for the clock, MCU setup, etc.,
+
+LESENSE.c- Low energy sense for the capacitive touch, Force sensitive resistors and the Ultrasonic sensor
+LESENSE.h - header file for LESENSE.c
+
+MMA8452_i2c.c- Logic for interrupt generation and initialization of the 6 axis sensor
+MMA8452_i2c.h - header file for MMA8452_i2c.c
+
+PWM_rtc.c- PWM from the LE Timer for the brushed DC motors
+PWM_rtc.h- header file for the PWM_rtc.c
+
+gpio_setup.c- GPIOs for various buttons, LEDs etc,.
+gpio_setup.h -header file for gpio_setup.c
+
+sleep.c- Puts MCU to various sleep modes during idle time
+sleep.h - header file for sleep.c
+
+timer_setup.c- LE Timer for periodic interrupt generation
+timer_setup.h - header file for timer_setup.c
+
+uart.c- UART files to transfer data to the BLE, Atmel SAMB11
+uart.h- header file for uart.c
